@@ -1,0 +1,17 @@
+body {
+  background-color: #f0f0f0; /* Sets the background color for the entire page */
+  font-family: sans-serif;   /* Sets the default font */
+  color: #333;               /* Sets the default text color */
+}
+
+h1 {
+  color: blue;               /* Changes the color of all <h1> elements */
+  text-align: center;        /* Centers the text within the <h1> element */
+  margin: 0;                 /* Removes default top margin */
+  padding: 20px 0;           /* Adds padding above and below the heading */
+}
+
+p {
+  font-size: 16px;           /* Changes the font size of all <p> elements */
+  line-height: 1.5;          /* Increases space between lines of text */
+}
