@@ -19,7 +19,9 @@ public class GFG{
         // Close the scanner
         sc.close();
     }
+
 }
+
 
 //code-2
     
@@ -45,4 +47,13 @@ public class GFG {
         // Step 4: Print the entered integer
         System.out.println("You entered: " + number);
     }
+
+ new code without pull
+
+public class HelloWorld {
+    public static void main(String[] args)
+    {
+        System.out.println("Hello, World");
+    }
 }
+}
