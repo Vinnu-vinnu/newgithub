@@ -22,7 +22,7 @@ public class GFG{
 
 }
 
-
+Hi all
 //code-2
     
 import java.io.BufferedReader;
