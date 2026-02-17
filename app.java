@@ -21,8 +21,7 @@ public class GFG{
     }
 
 }
-
-cron tab
+Timezone changed
 //code-2
     
 import java.io.BufferedReader;
