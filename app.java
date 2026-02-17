@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class GFG{
-    
+    hi
     public static void main(String[] args){
         
         // Step 1: Create Scanner object
