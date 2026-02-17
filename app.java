@@ -22,7 +22,7 @@ public class GFG{
 
 }
 
-
+cron tab
 //code-2
     
 import java.io.BufferedReader;
