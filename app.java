@@ -21,7 +21,7 @@ public class GFG{
     }
 
 }
-Timezone changed
+removed timezone and added
 //code-2
     
 import java.io.BufferedReader;
